@@ -58,3 +58,9 @@ a {
   margin-right: 10px;
   color: #777;
 }
+.site-header .categories {
+  text-align: right;
+}
+.site-header .categories a {
+  margin-left: 10px;
+}
